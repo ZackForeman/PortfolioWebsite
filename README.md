@@ -1,6 +1,6 @@
 # Portfolio Website
 
-To Preview : https://htmlpreview.github.io/?https://github.com/ZackForeman/PortfolioWebsite/blob/main/Website/main.html
+To Preview : https://htmlpreview.github.io/?https://github.com/ZackForeman/PortfolioWebsite/blob/main/Website/index.html
 
 https://www.youtube.com/watch?v=Zn64_IVLO88
 
